@@ -1,7 +1,7 @@
 ---
 name: "qt"
 suites:
-- "precise"
+- "trusty"
 architectures:
 - "amd64"
 packages: 
@@ -10,7 +10,7 @@ packages:
 - "zip"
 - "unzip"
 - "faketime"
-reference_datetime: "2011-01-30 00:00:00"
+reference_datetime: "2021-06-28 04:25:00"
 remotes: []
 files:
 - "qt-everywhere-opensource-src-4.8.5.tar.gz"

@@ -1,7 +1,7 @@
 ---
 name: "boost"
 suites:
-- "precise"
+- "trusty"
 architectures:
 - "amd64"
 packages:
@@ -9,7 +9,7 @@ packages:
 - "g++-mingw-w64"
 - "faketime"
 - "zip"
-reference_datetime: "2011-01-30 00:00:00"
+reference_datetime: "2021-06-28 04:25:00"
 remotes: []
 files:
 - "boost_1_55_0.tar.bz2"
